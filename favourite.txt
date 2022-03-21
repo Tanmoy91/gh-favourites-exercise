@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 My Favourite Foods
 ==================
 Grilled Chicken Escalope with Fresh Salsa
@@ -5,3 +6,12 @@ Mutton Korma
 Butter Chicken
 Hyderabadi Chicken Fry
 Mutton Biriyani
+=======
+My Favourite Movies
+===================
+Puspa : The Rise
+War
+Harry Potter
+3 Idiots
+Kaho Na Pyar Hai
+>>>>>>> movies
